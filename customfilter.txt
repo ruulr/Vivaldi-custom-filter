@@ -1,1 +1,9 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: MyList
+! Last modified: Thu, 21 Oct 2023 06:58:44 +0000
+! Expires: 6 days (update frequency)
+! Homepage: https://github.com/ruulr/Vivaldi-custom-filter
+!
+
 edgeservices.bing.com##.hdr-filled.hdr-fixed.uds-hdr-wrapper
