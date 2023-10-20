@@ -1,1 +1,1 @@
-##.hdr-filled.hdr-fixed.uds-hdr-wrapper
+edgeservices.bing.com##.hdr-filled.hdr-fixed.uds-hdr-wrapper
